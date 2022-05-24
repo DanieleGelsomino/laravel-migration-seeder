@@ -23,7 +23,7 @@
 
         </div>
     @empty
-        Non ci sono Treni disponibili.
+        Non ci sono Treni disponibili per oggi.
     @endforelse
 </body>
 
